@@ -1,0 +1,222 @@
+[
+  {
+    "industry_name": "None",
+    "code": 0
+  },
+  {
+    "industry_name": "Novelties",
+    "code": 1
+  },
+  {
+    "industry_name": "Specialty Food",
+    "code": 2
+  },
+  {
+    "industry_name": "Baby and Child Care",
+    "code": 3
+  },
+  {
+    "industry_name": "Consumer Services",
+    "code": 4
+  },
+  {
+    "industry_name": "Men and Women's Apparel",
+    "code": 5
+  },
+  {
+    "industry_name": "Productivity Tools",
+    "code": 6
+  },
+  {
+    "industry_name": "Automotive",
+    "code": 7
+  },
+  {
+    "industry_name": "Education",
+    "code": 8
+  },
+  {
+    "industry_name": "Kitchen Tools",
+    "code": 9
+  },
+  {
+    "industry_name": "Music",
+    "code": 10
+  },
+  {
+    "industry_name": "Professional Services",
+    "code": 11
+  },
+  {
+    "industry_name": "Online Services",
+    "code": 12
+  },
+  {
+    "industry_name": "Women's Accessories",
+    "code": 13
+  },
+  {
+    "industry_name": "Fitness Equipment",
+    "code": 14
+  },
+  {
+    "industry_name": "Undergarments and Basics",
+    "code": 15
+  },
+  {
+    "industry_name": "Non-Alcoholic Beverages",
+    "code": 16
+  },
+  {
+    "industry_name": "Fitness Programs",
+    "code": 17
+  },
+  {
+    "industry_name": "Entertainment",
+    "code": 18
+  },
+  {
+    "industry_name": "Toys and Games",
+    "code": 19
+  },
+  {
+    "industry_name": "Fashion Accessories",
+    "code": 20
+  },
+  {
+    "industry_name": "Women's Apparel",
+    "code": 21
+  },
+  {
+    "industry_name": "Electronics",
+    "code": 22
+  },
+  {
+    "industry_name": "Pet Products",
+    "code": 23
+  },
+  {
+    "industry_name": "Golf Products",
+    "code": 24
+  },
+  {
+    "industry_name": "Baby and Children's Entertainment",
+    "code": 25
+  },
+  {
+    "industry_name": "Outdoor Recreation",
+    "code": 26
+  },
+  {
+    "industry_name": "Personal Care and Cosmetics",
+    "code": 27
+  },
+  {
+    "industry_name": "Gardening",
+    "code": 28
+  },
+  {
+    "industry_name": "Women's Shoes",
+    "code": 29
+  },
+  {
+    "industry_name": "Men's Accessories",
+    "code": 30
+  },
+  {
+    "industry_name": "Alcoholic Beverages",
+    "code": 31
+  },
+  {
+    "industry_name": "Health and Well-Being",
+    "code": 32
+  },
+  {
+    "industry_name": "Fitness Apparel and Accessories",
+    "code": 33
+  },
+  {
+    "industry_name": "Furniture",
+    "code": 34
+  },
+  {
+    "industry_name": "Storage and Cleaning Products",
+    "code": 35
+  },
+  {
+    "industry_name": "Home Improvement",
+    "code": 36
+  },
+  {
+    "industry_name": "Maternity",
+    "code": 37
+  },
+  {
+    "industry_name": "Home Accessories",
+    "code": 38
+  },
+  {
+    "industry_name": "Weddings",
+    "code": 39
+  },
+  {
+    "industry_name": "Water Bottles",
+    "code": 40
+  },
+  {
+    "industry_name": "Wine Accessories",
+    "code": 41
+  },
+  {
+    "industry_name": "Baby and Children's Apparel and Accessories",
+    "code": 42
+  },
+  {
+    "industry_name": "Homeopathic Remedies",
+    "code": 43
+  },
+  {
+    "industry_name": "Men and Women's Shoes",
+    "code": 44
+  },
+  {
+    "industry_name": "Cycling",
+    "code": 45
+  },
+  {
+    "industry_name": "Pest Control",
+    "code": 46
+  },
+  {
+    "industry_name": "Mobile Apps",
+    "code": 47
+  },
+  {
+    "industry_name": "Men and Women's Accessories",
+    "code": 48
+  },
+  {
+    "industry_name": "Costumes",
+    "code": 49
+  },
+  {
+    "industry_name": "Holiday Cheer",
+    "code": 50
+  },
+  {
+    "industry_name": "Party Supplies",
+    "code": 51
+  },
+  {
+    "industry_name": "Baby and Children's Bedding",
+    "code": 52
+  },
+  {
+    "industry_name": "Baby and Children's Food",
+    "code": 53
+  },
+  {
+    "industry_name": "Home Security Solutions",
+    "code": 54
+  }
+]
